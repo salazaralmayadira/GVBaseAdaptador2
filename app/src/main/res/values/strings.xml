@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GVBaseAdaptador</string>
+    <string name="tituloApp">Agenda</string>
+    <string name="hNombre">Ingresa tu nombre</string>
+    <string name="hEdad">Ingresa tu edad</string>
+    <string name="hSexo">Ingresa tu sexo</string>
+    <string name="bGrabar">Grabar</string>
+    <string name="dNombre">Nombre</string>
+    <string name="dEdad">Edad</string>
+    <string name="dSexo">Sexo</string>
+</resources>
